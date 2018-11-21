@@ -1,6 +1,7 @@
 # Prediction of California median house value
 
 Simple prediction of house value based on data provided by the house:
+
     - longitude
     - latitude
     - housing_median_age
