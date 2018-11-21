@@ -20,4 +20,4 @@ Simple prediction of house value based on data provided by the house:
     - test model
     - use final model
 
-    scripts/scripts_managing.py shows how to to through all these steps.
+    scripts/scripts_managing.py shows how to go through all these steps.
