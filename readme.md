@@ -1,4 +1,4 @@
-# Prediction of California median house value
+# Prediction of California median house value with RandomForestRegressor
 
 Simple prediction of house value based on data provided by the house:
 
